@@ -19,3 +19,4 @@ _ _ _ _ _
 
 한줄짜리 
 
+<img alt="milk" src="https://github.com/ParkSeRim0531/git_serimoo/issues/2#issue-1374030183">
